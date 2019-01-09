@@ -1,0 +1,9 @@
+Building eonagen
+
+See doc/readme-qt.rst for instructions on building eonagen QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of eonagen.
+
+See doc/build-*.txt for instructions on building eonagend,
+the intended-for-services, no-graphical-interface, reference
+implementation of eonagen.

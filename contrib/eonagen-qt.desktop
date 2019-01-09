@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=EONA
+Comment=EONA P2P Cryptocurrency
+Comment[fr]=EONA, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=EONA, eşten eşe kriptografik sanal para birimi
+Exec=eonagen-qt %u
+Terminal=false
+Type=Application
+Icon=eonagen128
+MimeType=x-scheme-handler/eonagen;
+Categories=Office;Finance;
